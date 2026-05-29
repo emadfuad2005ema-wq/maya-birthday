@@ -1,6 +1,0 @@
-{
-  "name": "Date Invitation for Malak",
-  "description": "An interactive, pink-themed date proposal website for Malak with a playful dodging No button.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
